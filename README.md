@@ -45,4 +45,4 @@ Configured an SNMP agent and monitoring system to enable proactive performance m
 ![linkDown](linkDown%20Trap%20in%20Pandora.png)
 
 ### CRITICAL Alert in Pandora Tactical View
-![critical](Pandora%20Tactical%20View%20(CRITICAL%20Event).png)
+![Critical Alert](pandora-critical-alert.png)
